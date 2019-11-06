@@ -11,6 +11,7 @@ With tiny 2313, you still have bytes of memory left and 3 IO's spare... With thi
 
 
 
+
 MDF  
 Nov 2013  
 
@@ -18,7 +19,6 @@ Nov 2013
 
 
 ![image1](demo/p1.png)
-![image1](demo/p2.jpg)
-![image1](demo/p3.jpg)
+![image1](demo/p6.png)
 
 
